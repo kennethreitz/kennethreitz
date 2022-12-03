@@ -1,4 +1,4 @@
-Kenneth Reitz is a computer programmer, open-source software developer, photographer, and musician from the United States. He is best known for his work on the Python programming language and the development of several popular Python libraries, including Requests, Pipenv, Autoenv, and OSX-GCC-Installer.  
+**Kenneth Reitz** is a computer programmer, open-source software developer, photographer, and musician from the United States. He is best known for his work on the Python programming language and the development of several popular Python libraries, including Requests, Pipenv, Autoenv, and OSX-GCC-Installer.  
 
 He has made a significant impact on the Python programming language and the Python community. His work has helped to make Python a more popular and reliable programming language, and his contributions have indirectly influenced the development of other programming languages. His work on Pipenv, for example, has influenced the development of similar tools in other programming languages.
 

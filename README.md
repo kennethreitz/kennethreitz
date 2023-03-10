@@ -12,4 +12,6 @@ Software is beautiful. I love writing code with Python. Here are some of my crea
 Also, [The Hitchhiker's Guide to Python](https://amzn.to/3H4yb5X) ([repo](https://github.com/realpython/python-guide)).
 
 
-P.S. — I am available for hire! [Send me a message](mailto:me@kennethreitz.org).
+-----
+
+*P.S. I am available for hire! [Send me a message](mailto:me@kennethreitz.org).*

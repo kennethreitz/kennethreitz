@@ -11,7 +11,3 @@ Software is beautiful. I love writing code with Python. Here are some of my crea
 - *[The Hitchhiker's Guide to Python](https://amzn.to/3H4yb5X)* ([repo](https://github.com/realpython/python-guide)).
 
 After years of maintinence, they have all been handed off to respective new maintainers. So long, and thanks for all the fish!
-
------
-
-*P.S. I am available for hire! [Send me a message](mailto:me@kennethreitz.org).*

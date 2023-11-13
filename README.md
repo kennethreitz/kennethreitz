@@ -9,5 +9,3 @@ Software is beautiful. I love writing code with Python. Here are some of my crea
 - **[pep8](https://pep8.org)**.org: An easier-to-parse presentation of the PEP 8 style guide for Python code.
 - **[tablib](https://tablib.readthedocs.io/en/stable/)**: A format-agnostic tabular dataset library for Python
 - *[The Hitchhiker's Guide to Python](https://amzn.to/3H4yb5X)* ([repo](https://github.com/realpython/python-guide)).
-
-After years of maintinence, they have all been handed off to respective new maintainers. So long, and thanks for all the fish!

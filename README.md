@@ -1,8 +1,8 @@
 Software is beautiful. I love writing code with Python. Here are some of my creations:
 
-- **[simplemind](https://github.com/kennethreitz/simplemind)**: A unifided interface for varoius LLM service providers.
-- **[pytheory](https://github.com/kennethreeitz/pytheory)**
-- **[responder](http://responder.kennethreitz.org/)**: Experimental asynchronous web framework with novel concepts & customer ideas.
+- **[simplemind](https://github.com/kennethreitz/simplemind)**: AI for Humans™
+- **[pytheory](https://github.com/kennethreeitz/pytheory)**: Music Theory for Humans™
+- **[responder](http://responder.kennethreitz.org/)**: A familiar web framework.
 
 Older stuff: 
 

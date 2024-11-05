@@ -6,9 +6,9 @@ Software is beautiful. I love writing code with Python. Here are some of my crea
 
 Older stuff: 
 
-- **[httpbin.org](https://httpbin.org)**: A helpful request / response service, powered by Flask. 
 - **[requests](https://github.com/psf/requests)**: An elegant and simple HTTP library for Python, built for human beings.
 - **[requests-html](https://github.com/psf/requests-html)**: Scraping the web as simply and intuitively as possible.
+- **[httpbin.org](https://httpbin.org)**: A helpful request / response service, powered by Flask. 
 - **[pipenv](https://github.com/pypa/pipenv)**: A tool that aims to bring the best of all packaging worlds to the Python world.
 - **[records](https://github.com/kennethreitz/records)**: A simple & powerful library for making raw SQL queries to most relational databases.
 - **[maya](https://github.com/timofurrer/maya)**: A UTC-first datetime library that enforces best practices and eases cognitive overhead.

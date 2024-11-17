@@ -2,6 +2,7 @@ Software is beautiful. I love writing code with Python. Here are some of my crea
 
 - **[simplemind](https://github.com/kennethreitz/simplemind)**: AI for Humans™
 - **[pytheory](https://github.com/kennethreitz/pytheory)**: Music Theory for Humans™
+- **[records](https://github.com/kennethreitz/records)**: A simple & powerful library for making raw SQL queries to most relational databases.
 - **[responder](http://responder.kennethreitz.org/)**: A familiar web framework.
 
 Older stuff: 
@@ -10,7 +11,6 @@ Older stuff:
 - **[requests-html](https://github.com/psf/requests-html)**: Scraping the web as simply and intuitively as possible.
 - **[httpbin.org](https://httpbin.org)**: A helpful request / response service, powered by Flask. 
 - **[pipenv](https://github.com/pypa/pipenv)**: A tool that aims to bring the best of all packaging worlds to the Python world.
-- **[records](https://github.com/kennethreitz/records)**: A simple & powerful library for making raw SQL queries to most relational databases.
 - **[maya](https://github.com/timofurrer/maya)**: A UTC-first datetime library that enforces best practices and eases cognitive overhead.
 - **[pep8.org](https://pep8.org)**: An easier-to-parse presentation of the PEP 8 style guide for Python code.
 - **[tablib](https://tablib.readthedocs.io/en/stable/)**: A format-agnostic tabular dataset library for Python
